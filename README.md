@@ -7,17 +7,17 @@ If you think I'm starting to procrastinate, you're probably right 😅.
 
 ### Things I'll do this week:
 
-- [ ] Create a long shadow effect example on Codepen
+- [x] Create a long shadow effect example on Codepen
 - [ ] Create new blend mode example on Codepen
 - [ ] 📚 Finish reading YDKJS "This & Object Prototypes"
 - [ ] 📚 Start reading YDKJS "Types & Grammar"
 - [ ] Add missing descriptions to my pens
 - [ ] Check out and create a modulus.io account for some future server app
 - [ ] Make some brownies
-- [ ] Figure out and Update the new Content-ID requirement for my twitch-status app
+- [x] Figure out and Update the new Content-ID requirement for my twitch-status app
 - [ ] Learning Redux from egghead.io
 - [ ] Finish the React+Redux+node tutorial
-- [ ] 🏃 Running
+- [x] 🏃 Running
 - [ ] Get a haircut 💇‍♂️
 - [ ] Consider buying a Raspberry Pi to use it as a local server
 - [ ] Finish the new Paper Mario game 👾
