@@ -3,14 +3,21 @@ Goals of the week
 
 If you think I'm starting to procrastinate, you're probably right 😅.
 
-# October 24, 2016
+# October 31, 2016
 
 ### Things I'll do this week:
 
-- [ ] Create new blend mode example on Codepen
+- [ ] Write the projects descriptions
+- [ ] Write the about description
+- [ ] Figure out how to add smooth scrolling
+- [ ] Buy a bullet journal
+- [ ] Try using bullet journal for a month
+- [ ] Send money to brother
+- [ ] Brush up my dotfiles and push them on github
+- [ ] Start working on Knight Move game
+- [ ] Geotarget website
 - [ ] Sell stuff on ebay
 - [ ] Make a single page template with Bootstrap
-- [ ] 📚 Finish reading YDKJS "This & Object Prototypes"
 - [ ] 📚 Start reading YDKJS "Types & Grammar"
 - [ ] Check out and create a modulus.io account for some future server app
 - [ ] Make some brownies
@@ -21,4 +28,4 @@ If you think I'm starting to procrastinate, you're probably right 😅.
 - [ ] Learn more about unit testing
 - [ ] Create a Telegram bot
 - [ ] Create my first React + Redux app
-- [ ] More running 
+- [ ] More running
