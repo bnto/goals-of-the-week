@@ -3,7 +3,7 @@ Goals of the week
 
 If you think I'm starting to procrastinate, you're probably right 😅.
 
-# November 14, 2016
+# November 21, 2016
 
 ### Things I'll do this week:
 
@@ -20,9 +20,10 @@ If you think I'm starting to procrastinate, you're probably right 😅.
 - [ ] Finish the new Paper Mario game 👾
 - [ ] Learn more about unit testing
 - [ ] Create a Telegram bot
-- [ ] Work on French to English translations
-- [ ] Running in the rain
-- [ ] Look at baffle.js code
 - [ ] Ascii animation easter egg
 - [ ] Hide some javascript easter eggs
 - [ ] Finalize tweet maker
+- [ ] Try Koajs
+- [ ] 🏃🏃🏃
+- [ ] Need to buy more notebooks!!
+- [ ] Finish letter-countdown library
