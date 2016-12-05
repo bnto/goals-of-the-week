@@ -1,13 +1,12 @@
 Goals of the week
 =================
 
-If you think I'm starting to procrastinate, you're probably right 😅.
+Only a few more days until santa 🎅
 
-# November 28, 2016
+# December 05, 2016
 
 ### Things I'll do this week:
 
-- [ ] Brush up my dotfiles and push them on github
 - [ ] Start working on Knight Move game
 - [ ] Make a single page template with Bootstrap
 - [ ] 📚 Start reading YDKJS "Types & Grammar"
