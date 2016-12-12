@@ -3,7 +3,7 @@ Goals of the week
 
 Only a few more days until santa 🎅
 
-# December 05, 2016
+# December 12, 2016
 
 ### Things I'll do this week:
 
@@ -18,3 +18,5 @@ Only a few more days until santa 🎅
 - [ ] Try Koajs
 - [ ] Finish letter-countdown library
 - [ ] Mess around with emojis in CSS
+- [ ] Go for a run
+- [ ] Daily javascript 30 challenge
