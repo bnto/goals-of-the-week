@@ -1,9 +1,9 @@
 Goals of the week
 =================
 
-End of 2016 🎉
+New Year!! 🎉
 
-# December 26, 2016
+# January 2, 2017
 
 ### Things I'll do this week:
 
@@ -12,9 +12,9 @@ End of 2016 🎉
 - [ ] Make some brownies
 - [ ] Finish the new Paper Mario game 👾
 - [ ] Learn more about unit testing
-- [ ] Try Koajs
 - [ ] Finish letter-countdown library
 - [ ] Mess around with emojis in CSS
 - [ ] Daily javascript 30 challenge
-- [ ] Play Dragon Quest 7
-- [ ] Go for a run
+- [ ] Go for a run 🏃
+- [ ] Declutter (clothes)
+- [ ] Start looking for a flat
